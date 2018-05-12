@@ -32,6 +32,8 @@ creator:
     - http://en.wikipedia.org/wiki/Minna_Canth
     - http://fi.wikipedia.org/wiki/Minna_Canth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26546#Noveller
 gutenberg_issued: '2008-09-06'
 gutenberg_type: Text
 identifiers:
