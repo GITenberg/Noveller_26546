@@ -1,0 +1,48 @@
+_repo: Noveller_26546
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Järnefelt, Eero
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '32089'
+    url: http://www.gutenberg.org/2009/agents/32089
+  translator:
+    agent_name: Lindberg, Hanna
+    alias: Lbg, H.
+    birthdate: 1869
+    deathdate: 1909
+    gutenberg_agent_id: '32088'
+    url: http://www.gutenberg.org/2009/agents/32088
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Canth, Minna
+    aliases:
+    - Wilja
+    - Canth, Ulrika Vilhelmina Johnsson
+    - Johnsson, Ulrika Vilhelmina
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '3553'
+    url: http://www.gutenberg.org/2009/agents/3553
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Minna_Canth
+    - http://fi.wikipedia.org/wiki/Minna_Canth
+description: ''
+gutenberg_issued: '2008-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26546'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PH'
+title: Noveller
+url: http://www.gutenberg.org/ebooks/26546
